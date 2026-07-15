@@ -14,3 +14,6 @@ tmp/
 extern/
 libmkuemmerer/
 *.pyc
+.venv/
+Manifest.toml
+
